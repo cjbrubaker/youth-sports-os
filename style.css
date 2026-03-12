@@ -1,0 +1,37 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f5f5f5;
+    color: #222;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 600;
+}
+
+#developmentPlan .phase {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-left: 4px solid #0d6efd;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#guideContent .guide-section {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-left: 4px solid #0d6efd;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.list-group-item {
+    background-color: #fff;
+    border-color: #0d6efd;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+/* Highlight nav link when section visible (simple stub, JS optional) */
+/* Additional styling can be added here */
